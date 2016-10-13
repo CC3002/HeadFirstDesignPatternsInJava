@@ -4,6 +4,10 @@ import java.applet.Applet;
 import java.awt.Graphics;
 
 public class MyApplet extends Applet {
+    /**
+   * 
+   */
+  private static final long serialVersionUID = -575277078193635850L;
     String message;
  
     public void init() {

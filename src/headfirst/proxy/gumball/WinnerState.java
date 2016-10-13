@@ -1,6 +1,10 @@
 package headfirst.proxy.gumball;
 
 public class WinnerState implements State {
+    /**
+   * 
+   */
+  private static final long serialVersionUID = 1829712450162905875L;
     transient GumballMachine gumballMachine;
  
     public WinnerState(GumballMachine gumballMachine) {

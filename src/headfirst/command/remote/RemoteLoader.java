@@ -25,10 +25,8 @@ public class RemoteLoader {
 		CeilingFanOffCommand ceilingFanOff = 
 				new CeilingFanOffCommand(ceilingFan);
  
-		GarageDoorUpCommand garageDoorUp =
-				new GarageDoorUpCommand(garageDoor);
-		GarageDoorDownCommand garageDoorDown =
-				new GarageDoorDownCommand(garageDoor);
+		new GarageDoorUpCommand(garageDoor);
+		new GarageDoorDownCommand(garageDoor);
  
 		StereoOnWithCDCommand stereoOnWithCD =
 				new StereoOnWithCDCommand(stereo);

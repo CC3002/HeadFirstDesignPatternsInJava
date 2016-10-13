@@ -5,7 +5,12 @@ import javax.swing.*;
 
 public class MyFrame extends JFrame {
 
-	public MyFrame(String title) {
+	/**
+   * 
+   */
+  private static final long serialVersionUID = -6958746263936844089L;
+
+  public MyFrame(String title) {
 		super(title);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
@@ -20,6 +25,6 @@ public class MyFrame extends JFrame {
 	}
 
 	public static void main(String[] args) {
-		MyFrame myFrame = new MyFrame("Head First Design Patterns");
+		new MyFrame("Head First Design Patterns");
 	}
 }

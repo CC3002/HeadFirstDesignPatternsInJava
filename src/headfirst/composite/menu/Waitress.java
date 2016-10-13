@@ -1,6 +1,4 @@
 package headfirst.composite.menu;
-
-import java.util.Iterator;
   
 public class Waitress {
 	MenuComponent allMenus;

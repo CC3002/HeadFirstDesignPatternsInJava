@@ -1,10 +1,10 @@
 package headfirst.combined.djview;
   
-import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
 
 public class BeatBar extends JProgressBar implements Runnable { 
+
+  private static final long serialVersionUID = 3254975206632670426L;
     JProgressBar progressBar;
 	Thread thread;
 

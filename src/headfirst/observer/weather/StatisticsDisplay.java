@@ -1,7 +1,5 @@
 package headfirst.observer.weather;
 
-import java.util.*;
-
 public class StatisticsDisplay implements Observer, DisplayElement {
 	private float maxTemp = 0.0f;
 	private float minTemp = 200;
@@ -12,6 +10,10 @@ public class StatisticsDisplay implements Observer, DisplayElement {
 	public StatisticsDisplay(WeatherData weatherData) {
 		this.weatherData = weatherData;
 		weatherData.registerObserver(this);
+	}
+	
+	public void unregister() {
+	  weatherData.removeObserver(this);
 	}
 
 	public void update(float temp, float humidity, float pressure) {

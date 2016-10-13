@@ -1,7 +1,6 @@
 package headfirst.proxy.virtualproxy;
 
 import java.net.*;
-import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import java.util.*;
@@ -14,7 +13,7 @@ public class ImageProxyTestDrive {
 	Hashtable cds = new Hashtable();
  
 	public static void main (String[] args) throws Exception {
-		ImageProxyTestDrive testDrive = new ImageProxyTestDrive();
+		new ImageProxyTestDrive();
 	}
  
 	public ImageProxyTestDrive() throws Exception{
