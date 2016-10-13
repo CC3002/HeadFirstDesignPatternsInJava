@@ -2,8 +2,8 @@
 <class-diagram version="1.1.11" icons="true" automaticImage="PNG" always-add-relationships="false" 
   generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
   router="FAN">  
-  <class id="1" language="java" name="headfirst.strategy.DecoyDuck" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/DecoyDuck.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="1" language="java" name="headfirst.strategy.DecoyDuck" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/DecoyDuck.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="84" y="93"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -11,8 +11,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="headfirst.strategy.FakeQuack" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/FakeQuack.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="2" language="java" name="headfirst.strategy.FakeQuack" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/FakeQuack.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="829" y="88"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -20,8 +20,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="headfirst.strategy.Duck" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/Duck.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="3" language="java" name="headfirst.strategy.Duck" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/Duck.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="304" y="139"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -29,8 +29,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="4" language="java" name="headfirst.strategy.FlyBehavior" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/FlyBehavior.java" binary="false" corner="BOTTOM_RIGHT">    
+  <interface id="4" language="java" name="headfirst.strategy.FlyBehavior" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/FlyBehavior.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="625" y="347"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -38,8 +38,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <interface id="5" language="java" name="headfirst.strategy.QuackBehavior" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/QuackBehavior.java" binary="false" corner="BOTTOM_RIGHT">    
+  <interface id="5" language="java" name="headfirst.strategy.QuackBehavior" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/QuackBehavior.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="673" y="80"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -47,8 +47,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="6" language="java" name="headfirst.strategy.RubberDuck" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/RubberDuck.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="6" language="java" name="headfirst.strategy.RubberDuck" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/RubberDuck.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="88" y="219"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -56,8 +56,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="7" language="java" name="headfirst.strategy.MiniDuckSimulator1" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/MiniDuckSimulator1.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="7" language="java" name="headfirst.strategy.MiniDuckSimulator1" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/MiniDuckSimulator1.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="137" y="482"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -65,8 +65,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="8" language="java" name="headfirst.strategy.FlyRocketPowered" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/FlyRocketPowered.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="8" language="java" name="headfirst.strategy.FlyRocketPowered" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/FlyRocketPowered.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="749" y="482"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -74,8 +74,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="9" language="java" name="headfirst.strategy.Squeak" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/Squeak.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="9" language="java" name="headfirst.strategy.Squeak" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/Squeak.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="699" y="208"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -83,8 +83,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="10" language="java" name="headfirst.strategy.MuteQuack" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/MuteQuack.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="10" language="java" name="headfirst.strategy.MuteQuack" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/MuteQuack.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="823" y="207"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -92,8 +92,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="11" language="java" name="headfirst.strategy.MallardDuck" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/MallardDuck.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="11" language="java" name="headfirst.strategy.MallardDuck" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/MallardDuck.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="83" y="345"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -101,8 +101,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="12" language="java" name="headfirst.strategy.Quack" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/Quack.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="12" language="java" name="headfirst.strategy.Quack" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/Quack.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="586" y="207"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -110,8 +110,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="13" language="java" name="headfirst.strategy.FlyNoWay" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/FlyNoWay.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="13" language="java" name="headfirst.strategy.FlyNoWay" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/FlyNoWay.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="783" y="351"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -119,8 +119,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="14" language="java" name="headfirst.strategy.FlyWithWings" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/FlyWithWings.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="14" language="java" name="headfirst.strategy.FlyWithWings" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/FlyWithWings.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="582" y="482"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -128,8 +128,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="15" language="java" name="headfirst.strategy.ModelDuck" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/ModelDuck.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="15" language="java" name="headfirst.strategy.ModelDuck" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/ModelDuck.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="242" y="338"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -137,8 +137,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="16" language="java" name="headfirst.strategy.RedHeadDuck" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/RedHeadDuck.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="16" language="java" name="headfirst.strategy.RedHeadDuck" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/RedHeadDuck.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="393" y="338"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -146,8 +146,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="17" language="java" name="headfirst.strategy.MiniDuckSimulator" project="HeadFirstDesignPatterns" 
-    file="/HeadFirstDesignPatterns/src/headfirst/strategy/MiniDuckSimulator.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="17" language="java" name="headfirst.strategy.MiniDuckSimulator" project="HeadFirstDesignPatternsInJava" 
+    file="/HeadFirstDesignPatternsInJava/src/headfirst/strategy/MiniDuckSimulator.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="341" y="485"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
